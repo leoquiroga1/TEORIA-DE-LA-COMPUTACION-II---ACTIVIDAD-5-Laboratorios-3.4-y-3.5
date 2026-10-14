@@ -58,7 +58,7 @@ Finalmente enviamos a entrenamiento al modelo para que a partir de los datos pro
 
 # Laboratorio 3.5
 
-Nos conectamos al repositorio de Github y clonamos el repositorio, es importante re entrar la información de nombre e email que nos identifica y entrar a trabajar desde la rama asignada, luego movemos los archivos del nuevo laboratorio hacia la carpeta en donde tenemos nuestro repositorio y  realizamos el primer commit y push con la finalidad de guardar nuestro progreso**, cumpliendo con los requisitos de la actividad de evidenciar el trabajo desde el workspace y asegurar el control de versiones en la nube.**
+Nos conectamos al repositorio de Github y clonamos el repositorio, es importante re entrar la información de nombre e email que nos identifica y entrar a trabajar desde la rama asignada, luego movemos los archivos del nuevo laboratorio hacia la carpeta en donde tenemos nuestro repositorio y  realizamos el primer commit y push con la finalidad de guardar nuestro progreso, cumpliendo con los requisitos de la actividad de evidenciar el trabajo desde el workspace y asegurar el control de versiones.
 
 ![](Pantallazos/Screenshot%202026-10-13%20190242.png)
 
@@ -66,11 +66,11 @@ Accedemos a nuestro laboratorio y vamos completándolo haciendo push en git cada
 
 ![](Pantallazos/Screenshot%202026-10-13%20190740.png)
 
-Iniciamos el laboratorio y lo primero que hacemos es instalar la librerías necesarias para desarrollarlo de la misma manera en que se hizo en el laboratorio 3.4**, ya que al ser una instancia nueva, carece de las dependencias actualizadas requeridas por el código.**
+Iniciamos el laboratorio y lo primero que hacemos es instalar la librerías necesarias para desarrollarlo de la misma manera en que se hizo en el laboratorio 3.4
 
 ![](Pantallazos/Screenshot%202026-10-13%20191219.png)
 
-Importamos la librerías y entrenamos el modelo tal y como estaba preparado desde el laboratorio 3.4 para que podamos avanzar con el laboratorio 3.5**, dado que cada laboratorio se ejecuta en un entorno efímero y necesitamos recrear el modelo base antes de poder consumirlo.**
+Importamos la librerías y entrenamos el modelo tal y como estaba preparado desde el laboratorio 3.4 para que podamos avanzar con el laboratorio 3.5
 
 ![](Pantallazos/Screenshot%202026-10-13%20191416.png)
 
